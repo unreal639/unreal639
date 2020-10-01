@@ -45,7 +45,7 @@
 - 使用flask+mako+bootstrap开发
 - 使用sqlalchemy和简单的缓存
 - 实现了书籍管理和用户管理后台
-- 已通过docker+gunicorn部署在服务器(http://118.31.42.32)上
+- 已通过docker+gunicorn部署在服务器([http://118.31.42.32](http://118.31.42.32))上
 
 **数据分析**
 
